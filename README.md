@@ -1,4 +1,4 @@
-# 🏸 Sports Performance Analysis – Intramural Badminton Tournament
+# 🏸 Sports Performance Analysis – Badminton Tournament Data Analysis 
 
 ## 📌 Overview
 This project analyzes **intramural badminton match data** to uncover factors that most strongly influence **match outcomes**.  
